@@ -31,7 +31,7 @@ Replace `latest_version` with the current version of each package.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/meal-browser-app.git
+   git clone https://github.com/Alimortada22/MealsApp.git
    ```
 
 2. Navigate to the project directory:
